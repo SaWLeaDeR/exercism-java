@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DartsTest" tests="5" skipped="4" failures="0" errors="0" timestamp="2019-01-15T16:18:39" hostname="hurricane" time="0.014">
+  <properties/>
+  <testcase name="testDartLandsOnBorderBetweenOutsideAndMiddleCircles" classname="DartsTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testDartLandsInTheInnerCircle" classname="DartsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDartOutsideTarget" classname="DartsTest" time="0.012"/>
+  <testcase name="testDartLandsOnMiddleOfCircle" classname="DartsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDartLandsOnBorderOfTarget" classname="DartsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
